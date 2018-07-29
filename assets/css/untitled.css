@@ -1,0 +1,25 @@
+#logo {
+  width:70px;
+}
+
+#navcol-1 {
+}
+
+#about_header {
+  color:#23a148 !important;
+}
+
+.headers {
+  color:#23a148!important;
+}
+
+.btn.btn-outline-primary.btn-lg.button_green {
+  color:#23a148;
+  border-color:#23a148;
+}
+
+.btn.btn-outline-primary.btn-lg.button_green:hover {
+  background-color:#23a148;
+  color:white;
+}
+
